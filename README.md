@@ -1,5 +1,4 @@
 # API-REST-de-Paises
-Crud de Paises hecho con JSON SERVER
 
 Funcion del Programa : Es un crud REST donde se podra agregar , mostrar , editar y eliminar paises.
 
